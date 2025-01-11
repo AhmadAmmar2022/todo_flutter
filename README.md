@@ -8,7 +8,7 @@ A To-Do App built with Flutter and Dart, offering core task management features:
 This project demonstrates how to implement basic database operations in Flutter applications. It provides a practical example of offline data handling without requiring an internet connection.
 Key features of this project include:
 Displaying data stored locally.
-Adding new records to the database.
-Editing existing records.
-Deleting records from the database
-Adding items to a favorites list or a shopping cart and removing them as needed.
+Adding new date to the database.
+Editing existing date.
+Deleting date from the database
+Adding or removing items or activities from the favorites list as needed
