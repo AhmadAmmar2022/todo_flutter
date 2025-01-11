@@ -1,16 +1,12 @@
-# flu_sqflite
+# flutter_sqflite
 
-A new Flutter project.
+A Flutter application showcasing the use of SQLite for local database management.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features
+This project demonstrates how to implement basic database operations in Flutter applications. It provides a practical example of offline data handling without requiring an internet connection.
+Key features of this project include:
+Displaying data stored locally.
+Adding new records to the database.
+Editing existing records.
+Deleting records from the database
+Adding items to a favorites list or a shopping cart and removing them as needed.
